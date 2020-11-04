@@ -9,6 +9,7 @@ For the application to run on your local machine, you would need to install the 
 
 1. R
 2. R Studio
+
 You can get them on R's official website https://rstudio.com/products/rstudio/download/
 
 ## 📥 Installation
@@ -18,6 +19,6 @@ You can get them on R's official website https://rstudio.com/products/rstudio/do
 
 2. Open Git Bash or Terminal
 
-       $ git clone https://github.com/victoryuwaoma/DAPA-Project
+       $ git clone https://github.com/victoryuwaoma/DMML1-Project
 
 Happy coding! 💔
